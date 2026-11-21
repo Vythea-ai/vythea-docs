@@ -1,0 +1,27 @@
+{
+  "groups": {
+    "start": "Erste Schritte",
+    "use": "Vythea verwenden",
+    "extend": "Verbinden und erweitern",
+    "cloud": "Cloud und Teams",
+    "account": "Konto und Daten",
+    "help": "Hilfe",
+    "developers": "Für Entwickler"
+  },
+  "ui": {
+    "home": "Vythea-Startseite",
+    "guide": "Anleitung",
+    "next": "Weiter",
+    "indexTitle": "So nutzt du Vythea",
+    "indexLede": "Vom Anlegen eines Kontos bis zu jedem Befehl im Terminal. Fehlt etwas? Schreib an support@vythea.com.",
+    "metaTitle": "Anleitung – Vythea",
+    "metaDescription": "So nutzt du Vythea: erste Schritte, die App, das Terminal, Gateways, gehostete Modelle, Teams, VYTH und deine Daten.",
+    "pageTitle": "{title} – Vythea-Anleitung",
+    "search": "Im Leitfaden suchen",
+    "noResults": "Keine Seite passt",
+    "onThisPage": "Auf dieser Seite",
+    "previous": "Zurück",
+    "edit": "Diese Seite auf GitHub bearbeiten",
+    "untranslated": "Diese Seite ist noch nicht übersetzt und wird deshalb auf Englisch gezeigt. Du kannst sie auf GitHub übersetzen."
+  }
+}

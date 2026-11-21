@@ -1,0 +1,27 @@
+{
+  "groups": {
+    "start": "Getting started",
+    "use": "Using Vythea",
+    "extend": "Connect and extend",
+    "cloud": "Cloud and teams",
+    "account": "Account and data",
+    "help": "Help",
+    "developers": "Developers"
+  },
+  "ui": {
+    "home": "Vythea home",
+    "guide": "Guide",
+    "next": "Next",
+    "indexTitle": "How to use Vythea",
+    "indexLede": "From making an account to the terminal's every command. Something missing? Write to support@vythea.com.",
+    "metaTitle": "Guide — Vythea",
+    "metaDescription": "How to use Vythea: getting started, the app, the terminal, gateways, hosted models, teams, VYTH and your data.",
+    "pageTitle": "{title} — Vythea guide",
+    "search": "Search the guide",
+    "noResults": "No page matches",
+    "onThisPage": "On this page",
+    "previous": "Previous",
+    "edit": "Edit this page on GitHub",
+    "untranslated": "This page is not translated yet, so it is shown in English. You can translate it on GitHub."
+  }
+}
